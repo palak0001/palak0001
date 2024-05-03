@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @palak0001
-- 👀 I’m interested in what things make me happie.
+- 👀 I’m interested in what things make my soul happie.
 - 🌱 I’m currently learning python and dsa with java.
 - 📫 my linkdien profile is @palak dudhat
   
